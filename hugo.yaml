@@ -67,8 +67,8 @@ params:
   author: RTU Drone Team
   authorimage: ../assets/images/pages/wait.jpg
   og_image: /images/wait.jpg
-  moto: "DRONE POWERRR!"
-  description: " no text"
+  # moto: "DRONE POWERRR!"
+  description: "we are passionate about drones :)"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -101,16 +101,16 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/RTU-Drone-Team'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://facebook.com/'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://instagram.com/'
     twitter:
       enabled: true
-      url: 'https://twitter.com/nusserstudios'
+      url: 'https://twitter.com/'
     
 
 menu:

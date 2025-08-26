@@ -5,4 +5,4 @@ draft: false
 language: en
 description: About Us
 ---
-# Group of students doing thingss
+# detailed description coming later
