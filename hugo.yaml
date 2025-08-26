@@ -1,4 +1,4 @@
-baseURL: 'rtu-drone-team.github.io/'
+baseURL: 'https://rtu-drone-team.github.io/'
 title: RTU Drone Team
 languageCode: en-us
 DefaultContentLanguage: en
@@ -6,6 +6,7 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
+relativeURLs: true
 pagination:
   pagerSize: 6
 darkmode_js:
