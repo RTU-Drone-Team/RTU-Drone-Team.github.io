@@ -23,6 +23,12 @@ enableInlineShortcodes: true
 #     weight: 2
 #     languageName: "Latviešu"
 
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+    
 markup:
   goldmark:
     extensions:
